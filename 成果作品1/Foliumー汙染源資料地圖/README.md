@@ -2,7 +2,7 @@
 
 **標記叢集 Marker Clustering**
 
-![標記叢集](https://user-images.githubusercontent.com/66252302/99880750-44e81b80-2c50-11eb-9a52-62311106fd1f.gif)
+![標記叢集](https://user-images.githubusercontent.com/66252302/99881039-3e5aa380-2c52-11eb-8aab-d29152b0c4b6.gif)
 
 **熱區圖 Heatmap**
 
