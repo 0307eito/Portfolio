@@ -4,4 +4,4 @@
 
 <img width="807" alt="螢幕擷取畫面 2020-11-22 132655" src="https://user-images.githubusercontent.com/66252302/99897261-00519400-2cd3-11eb-8db1-2d43230e641f.png">
 
-<img width="682" alt="螢幕擷取畫面 2020-11-22 143323" src="https://user-images.githubusercontent.com/66252302/99897225-c08aac80-2cd2-11eb-9c2d-095473adc882.png">
+<img width="800" alt="螢幕擷取畫面 2020-11-22 143323 (1)" src="https://user-images.githubusercontent.com/66252302/99897341-94bbf680-2cd3-11eb-8734-9ddc44db6e42.png">
