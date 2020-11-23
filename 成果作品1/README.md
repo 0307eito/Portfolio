@@ -2,7 +2,7 @@
 
 **Blender GIS**
 
-**QGIS**
+**Folium**
 
 **QGIS**
 
