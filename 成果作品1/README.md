@@ -14,5 +14,6 @@
 
 **QGIS**
 
-<img width="250" alt="GoogleEarthPro1-1" src="https://user-images.githubusercontent.com/66252302/99942599-e5eae980-2daa-11eb-9b76-584bc97ab7d5.png">
-<img width="250" alt="result1-1" src="https://user-images.githubusercontent.com/66252302/99942600-e71c1680-2daa-11eb-8003-18eeb2236d23.png">
+<img width="500" alt="result" src="https://user-images.githubusercontent.com/66252302/99942710-129f0100-2dab-11eb-8da7-82b779bdcb45.png">
+<img width="500" alt="GoogleEarthPro" src="https://user-images.githubusercontent.com/66252302/99942715-1468c480-2dab-11eb-861f-b60f326f1a8a.png">
+
