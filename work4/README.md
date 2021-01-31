@@ -1,4 +1,4 @@
-# Geomatics
+# Geomatics Applications
 
 **Blender GIS**
 
