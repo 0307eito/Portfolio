@@ -2,7 +2,7 @@
 
 work1:  **違約率預測模型**
 
-work2:  **個人專題―Python實戰研習馬拉松**
+work2:  **Personal Projectweb---Web Crawler & Data Analysis**
 
 work3:  **Python網頁自動化程式實作**
 
