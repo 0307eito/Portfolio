@@ -1,6 +1,6 @@
 # Geomatics Applications
 
-**Folium**
+*Folium*
 
 ![11111111 (1)](https://user-images.githubusercontent.com/66252302/125839571-623c76d6-a2f1-4b2a-bbb3-df70065e7879.jpg)
 ![11111112 (1)](https://user-images.githubusercontent.com/66252302/125839745-760858e9-cb02-45f7-bc4d-cc39052b55d5.jpg)
