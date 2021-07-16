@@ -8,6 +8,6 @@
 
 ### 4. **Sorting Algorithms Visualization**
 
-### 5. **Manual Implementation of KNN , DBSCAN and Decision Tree**
+### 5. **Manual Implementation of Machine Learning**
 
 ### 6. **GIS Data Visualization**
