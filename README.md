@@ -8,6 +8,6 @@
 
 ### 4. **排序演算法視覺化**
 
-### 5. **K-means、KNN、DBSCAN、DecisionTree演算法實作**
+### 5. **K-means、KNN、DBSCAN、Decision Tree演算法實作**
 
 ### 6. **GIS資訊視覺化**
