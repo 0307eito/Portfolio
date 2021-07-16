@@ -1,13 +1,13 @@
-# My Works
+# Portfolio
 
-work1:  **COVID-19 mRNA Vaccine Degradation Prediction**
+1. **COVID-19 mRNA Vaccine Degradation Prediction**
 
-work2:  **PTT(HatePolitics) - Web Crawler & Data Analysis**
+2. **PTT(HatePolitics) - Web Crawler & Data Analysis**
 
-work3:  **Web Automation Program**
+3. **Web Automation Program**
 
-work4: **Sorting Algorithms Visualization**
+4. **Sorting Algorithms Visualization**
 
-work5:  **Manual Implementation of KNN , DBSCAN and Decision Tree**
+5. **Manual Implementation of KNN , DBSCAN and Decision Tree**
 
-work6:  **GIS Data Visualization**
+6. **GIS Data Visualization**
