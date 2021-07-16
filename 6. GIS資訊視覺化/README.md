@@ -13,7 +13,7 @@
 
 ### **3D建模工具「Blender GIS」**
 
-[過程詳述](/Blender%20GISー數值地形模型(DEM))
+[過程詳述](/6.%20GIS資訊視覺化/Blender%20GISー數值地形模型(DEM))
 
 ![GIS 1-1](https://user-images.githubusercontent.com/66252302/99941564-319c9380-2da9-11eb-9078-efb30fa00f38.gif)
 ![GIS 2-1](https://user-images.githubusercontent.com/66252302/99941594-411bdc80-2da9-11eb-83b4-712b55891746.gif)
@@ -21,7 +21,7 @@
 
 ### **地圖資料管理系統「QGIS」**
 
-[過程詳述](/QGISー數值地形模型(DEM)製作等高線)
+[過程詳述](/6.%20GIS資訊視覺化/QGISー數值地形模型(DEM)製作等高線)
 
 <img width="400" alt="GoogleEarthPro" src="https://user-images.githubusercontent.com/66252302/99943284-05364680-2dac-11eb-9538-be142bf413aa.png"><img width="400" alt="result" src="https://user-images.githubusercontent.com/66252302/99943077-ad97db00-2dab-11eb-9494-9e46fa09a9ba.png">
 
