@@ -1,13 +1,13 @@
 # Portfolio
 
-### 1. **COVID-19 mRNA Vaccine Degradation Prediction**
+### 1. **預測新冠肺炎 mRNA 疫苗中的鹼基降解程度**
 
-### 2. **PTT(HatePolitics) - Web Crawler & Data Analysis**
+### 2. **PTT政黑板的文章爬取與資料分析**
 
-### 3. **Web Automation Program**
+### 3. **Selenium網頁自動化程式**
 
-### 4. **Sorting Algorithms Visualization**
+### 4. **排序演算法視覺化**
 
-### 5. **Manual Implementation of Machine Learning**
+### 5. **K-means、KNN、DBSCAN、Decision Tree 演算法實作**
 
-### 6. **GIS Data Visualization**
+### 6. **GIS資訊視覺化**
