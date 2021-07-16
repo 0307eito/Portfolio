@@ -1,4 +1,4 @@
-# 演算法實作 : K-means、KNN、DBSCAN、Decision Tree
+# 演算法實作: K-means、KNN、DBSCAN、Decision Tree
 
 ### **Density‐based Clustering**
 
