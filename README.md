@@ -1,6 +1,6 @@
 # Portfolio
 
-1. **COVID-19 mRNA Vaccine Degradation Prediction**
+### 1. **COVID-19 mRNA Vaccine Degradation Prediction**
 
 2. **PTT(HatePolitics) - Web Crawler & Data Analysis**
 
