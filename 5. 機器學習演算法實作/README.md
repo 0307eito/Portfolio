@@ -2,7 +2,7 @@
 
 ### **Density‐based Clustering**
 
-[Implementation Code](/DBSCAN)
+[Implementation Code](/5.%20機器學習演算法實作/DBSCAN)
 
 ![dbscan](https://user-images.githubusercontent.com/66252302/125832562-c50a8925-353a-4b65-9d6e-e1dedfe12c5c.JPG)
 <br><br/>
