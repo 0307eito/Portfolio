@@ -1,6 +1,7 @@
 # 程式實測過程
 日経テレコン21(日經新聞資料庫)
-![youtube_gis](https://github.com/0307eito/Portfolio/assets/66252302/7509554b-a5a2-45c7-a1a4-a77960768fc9)
+![youtube_gis](https://github.com/0307eito/Portfolio/assets/66252302/edfbfdcd-396e-49d3-8b37-3e1732075390)
+(https://www.youtube.com/watch?v=HaU5I1n27uQ)
 
 
 美國 OFAC 制裁名單
