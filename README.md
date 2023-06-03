@@ -6,8 +6,4 @@
 
 ## 4. [**Selenium Web Automation Program**](/4.%20Selenium%20Web%20Automation%20Program)
 
-## 5. [**Sorting Algorithm Visualization**](/5.%20Sorting%20Algorithm%20Visualization)
-
-## 6. [**Machine Learning Algorithm Implementation(K-means、KNN、DBSCAN、Decision Tree)**](/6.%20Machine%20Learning%20Algorithm%20Implementation(K-means、KNN、DBSCAN、Decision%20Tree))
-
-## 7. [**GIS Information Visualization**](/7.%20GIS%20Information%20Visualization)
+## 5. [**GIS Information Visualization**](/7.%20GIS%20Information%20Visualization)
