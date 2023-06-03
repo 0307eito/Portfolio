@@ -1,11 +1,7 @@
-# 程式實測過程
+# 行動裝置實測過程
 
 ![youtube_gis](https://github.com/0307eito/Portfolio/assets/66252302/edfbfdcd-396e-49d3-8b37-3e1732075390)
 Youtube link: https://www.youtube.com/watch?v=HaU5I1n27uQ
-
-
-美國 OFAC 制裁名單
-![ezgif com-gif-maker-_2_](https://user-images.githubusercontent.com/66252302/99150038-d265c180-26cc-11eb-9fda-78b3c9aa0dcb.gif)
 
 <br><br/>
 
