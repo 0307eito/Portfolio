@@ -1,22 +1,14 @@
-# 預測新冠肺炎 mRNA 疫苗中的鹼基降解程度
+# 主題: PTT政黑板的文章爬取與資料分析
 
-### **小組專題報告**
-
-![Final Project_Group20-01](https://user-images.githubusercontent.com/66252302/125809177-28c3095a-ad59-44a7-af2a-9d2c17867944.png)
-![Final Project_Group20-02](https://user-images.githubusercontent.com/66252302/125809191-51e80b19-4b1e-495e-80a9-c144ad410133.png)
-![Final Project_Group20-03](https://user-images.githubusercontent.com/66252302/125809200-110ba0b7-dffd-4ce5-8fe0-9491802eed3e.png)
-![Final Project_Group20-04](https://user-images.githubusercontent.com/66252302/125809207-ce5af524-21f1-4948-bbb4-265d3a1a71ab.png)
-![Final Project_Group20-05](https://user-images.githubusercontent.com/66252302/125809209-8b7b561e-b925-445b-9ec2-3fab4a452532.png)
-![Final Project_Group20-06](https://user-images.githubusercontent.com/66252302/125809219-cfa7527f-b8f8-4016-9e95-e94ae7525504.png)
-![Final Project_Group20-07](https://user-images.githubusercontent.com/66252302/125809226-6257fd4e-3980-46d8-9adc-7be48d3e84f5.png)
-![Final Project_Group20-08](https://user-images.githubusercontent.com/66252302/125809232-ba1d4113-5f82-4350-8ad0-baefd4eb8425.png)
-![Final Project_Group20-09](https://user-images.githubusercontent.com/66252302/125809235-1fc78bf9-1a58-46a7-b058-5209e49bb963.png)
-![Final Project_Group20-10](https://user-images.githubusercontent.com/66252302/125809242-d16b0580-f7f2-4bcf-bccf-3a5bb2681296.png)
-![Final Project_Group20-11](https://user-images.githubusercontent.com/66252302/125809248-67715816-642e-47a2-8535-3c20e44c2fe5.png)
-![Final Project_Group20-12](https://user-images.githubusercontent.com/66252302/125809252-2cd62efe-0d71-4333-9181-bff0049a72b7.png)
-![Final Project_Group20-13](https://user-images.githubusercontent.com/66252302/125809257-ae3a9b7b-1d22-49e5-b8ee-6ef068401050.png)
-![Final Project_Group20-14](https://user-images.githubusercontent.com/66252302/125809259-7c9fa846-f1f6-4460-8878-697e36494c75.png)
-
-
-
-
+![【專題報告】PTT 政黑板的文章爬取與資料分析-01](https://user-images.githubusercontent.com/66252302/125800864-cf2cf2b4-b3f3-446f-8492-008114a035ec.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-02](https://user-images.githubusercontent.com/66252302/125800807-67aa9254-37c2-45b7-86b7-d8039721105d.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-03](https://user-images.githubusercontent.com/66252302/125800823-b7240d21-c131-4b57-b775-d0e6e9157584.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-04](https://user-images.githubusercontent.com/66252302/125800833-22121f5a-b747-4fe1-b37c-fb8eec0a8e03.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-05](https://user-images.githubusercontent.com/66252302/125800835-a19e9193-8294-4de7-9156-7b748b69721a.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-06](https://user-images.githubusercontent.com/66252302/125800839-06a4e1c0-fda9-46b3-835b-2f06743668bd.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-07](https://user-images.githubusercontent.com/66252302/125800842-a1661433-ccc6-47d5-883e-40cec3f58277.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-08](https://user-images.githubusercontent.com/66252302/125800845-448154a1-a849-4b05-8372-4131671f1ded.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-09](https://user-images.githubusercontent.com/66252302/125800849-f4901e11-b0aa-4b5f-aa24-947074f2ccb2.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-10](https://user-images.githubusercontent.com/66252302/125800851-b8f72211-9e3b-48e4-b74d-977ee14cb4c4.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-11](https://user-images.githubusercontent.com/66252302/125800856-d345978e-2b60-4c86-a441-0987c7a5ac11.png)
+![【專題報告】PTT 政黑板的文章爬取與資料分析-12](https://user-images.githubusercontent.com/66252302/125800862-57b50e19-b7a6-4642-9567-d9cf388d072e.png)
