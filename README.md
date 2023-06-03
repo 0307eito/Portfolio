@@ -1,6 +1,6 @@
 # Portfolio
 
-## [**Virtual Campus Display of Mobile Devices Using Unity Engine**](/COVID-19%20mRNA%20Vaccine%20Degradation%20Prediction)
+## [**Virtual Campus Display of Mobile Devices Using Unity Engine**](/Virtual%20Campus%20Display%20of%20Mobile%20Devices%20Using%20Unity%20Engine)
 
 ## [**COVID-19 mRNA Vaccine Degradation Prediction**](/COVID-19%20mRNA%20Vaccine%20Degradation%20Prediction)
 
