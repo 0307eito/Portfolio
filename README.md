@@ -1,6 +1,6 @@
 # Portfolio
 
-## 1. [**COVID-19 mRNA Vaccine Degradation Prediction**](/2.%20COVID-19 mRNA Vaccine Degradation Prediction)
+## 1. [**COVID-19 mRNA Vaccine Degradation Prediction**](/2.%20COVID-19%20mRNA%20Vaccine%20Degradation%20Prediction)
 
 ## 2. [**PTT Political Board Article Extraction and Data Analysis**](/2.%20PTT政黑板的文章爬取與資料分析)
 
