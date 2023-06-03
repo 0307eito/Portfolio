@@ -6,4 +6,4 @@
 
 ## 4. [**Selenium Web Automation Program**](/4.%20Selenium%20Web%20Automation%20Program)
 
-## 5. [**GIS Information Visualization**](/7.%20GIS%20Information%20Visualization)
+## 5. [**GIS Information Visualization**](/5.%20GIS%20Information%20Visualization)
