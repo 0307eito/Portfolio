@@ -6,8 +6,8 @@
 
 ## 3. [**Selenium Web Automation Program**](/3.%20Selenium網頁自動化程式)
 
-## 4. [**排序演算法視覺化**](/4.%20排序演算法視覺化)
+## 4. [**Sorting Algorithm Visualization**](/4.%20排序演算法視覺化)
 
-## 5. [**機器學習演算法實作(K-means、KNN、DBSCAN、Decision Tree)**](/5.%20機器學習演算法實作)
+## 5. [**Machine Learning Algorithm Implementation(K-means、KNN、DBSCAN、Decision Tree)**](/5.%20機器學習演算法實作)
 
-## 6. [**GIS資訊視覺化**](/6.%20GIS資訊視覺化)
+## 6. [**GIS Information Visualization**](/6.%20GIS資訊視覺化)
