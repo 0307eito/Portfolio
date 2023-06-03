@@ -10,4 +10,4 @@
 
 ## 6. [**Machine Learning Algorithm Implementation(K-means、KNN、DBSCAN、Decision Tree)**](/6.%20Machine%20Learning%20Algorithm%20Implementation(K-means、KNN、DBSCAN、Decision%20Tree))
 
-## 7. [**GIS Information Visualization**](/7.%%20GIS%20Information%20Visualization)
+## 7. [**GIS Information Visualization**](/7.%20GIS%20Information%20Visualization)
