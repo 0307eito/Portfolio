@@ -1,6 +1,6 @@
 # Portfolio
 
-## 1. [**預測新冠肺炎mRNA疫苗中的鹼基降解程度**](/1.%20預測新冠肺炎mRNA疫苗中的鹼基降解程度)
+## 1. [**COVID-19 mRNA Vaccine Degradation Prediction**](/1.%20預測新冠肺炎mRNA疫苗中的鹼基降解程度)
 
 ## 2. [**PTT政黑板的文章爬取與資料分析**](/2.%20PTT政黑板的文章爬取與資料分析)
 
