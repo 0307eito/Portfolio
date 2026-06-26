@@ -1,6 +1,6 @@
 # Portfolio
 
-## [**Fishing**](https://0307eito.github.io/Fishing_Map_2025/notebooks_test.html)
+## [**Fishing Map Project**](https://0307eito.github.io/Fishing_Map_2025/notebooks_test.html)
 
 ## [**Virtual Campus Display of Mobile Devices Using Unity Engine**](/Virtual%20Campus%20Display%20of%20Mobile%20Devices%20Using%20Unity%20Engine)
 
